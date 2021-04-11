@@ -1,4 +1,4 @@
-## This assignment is about writing a function that cache the inverse of a matrix.
+## This assignment is about writing a function that cache the inverse of a matrix. This functions below will help the users to create the matrix.
 
 ## This function will create a matrix that will cache the inverse of the matrix that was created.
 
