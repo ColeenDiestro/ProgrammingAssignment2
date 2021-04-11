@@ -1,6 +1,6 @@
 ## This assignment is about writing a function that cache the inverse of a matrix.
 
-## Write a short comment describing this function
+## This function will create a matrix that will cache the inverse of the matrix that was created.
 
 makeCacheMatrix <- function(x = matrix()) {
         in <- NULL
@@ -18,7 +18,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## This function on the the other hand computes for the inverse of the matrix created above.
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
